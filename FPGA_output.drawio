@@ -1,6 +1,6 @@
-<mxfile modified="2021-03-06T07:12:10.140Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="MLDBf41WiqWmxi9PtphG" version="14.4.2" type="github" pages="20">
+<mxfile modified="2021-03-12T08:19:11.313Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="pIGE0J4aLveNeNZErL3m" version="14.4.4" type="github" pages="20">
   <diagram id="GeZSIojBDvsr7RiwyZ7Q" name="数据包格式">
-    <mxGraphModel dx="1973" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4733,7 +4733,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4EbJPtm4BD4kD7csq1mE" name="变异类型">
-    <mxGraphModel dx="1973" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1ec7fl5i77vxQF_BeWmP-0" />
         <mxCell id="1ec7fl5i77vxQF_BeWmP-1" parent="1ec7fl5i77vxQF_BeWmP-0" />
@@ -4855,13 +4855,13 @@
           <mxGeometry x="460" y="520" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qBKiZQzaruoomTg8fWlM-40" value="C" style="rounded=0;whiteSpace=wrap;html=1;" parent="1ec7fl5i77vxQF_BeWmP-1" vertex="1">
-          <mxGeometry x="480" y="520" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qBKiZQzaruoomTg8fWlM-41" value="G" style="rounded=0;whiteSpace=wrap;html=1;" parent="1ec7fl5i77vxQF_BeWmP-1" vertex="1">
           <mxGeometry x="500" y="520" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qBKiZQzaruoomTg8fWlM-42" value="G" style="rounded=0;whiteSpace=wrap;html=1;" parent="1ec7fl5i77vxQF_BeWmP-1" vertex="1">
+        <mxCell id="qBKiZQzaruoomTg8fWlM-41" value="G" style="rounded=0;whiteSpace=wrap;html=1;" parent="1ec7fl5i77vxQF_BeWmP-1" vertex="1">
           <mxGeometry x="520" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qBKiZQzaruoomTg8fWlM-42" value="G" style="rounded=0;whiteSpace=wrap;html=1;" parent="1ec7fl5i77vxQF_BeWmP-1" vertex="1">
+          <mxGeometry x="540" y="520" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qBKiZQzaruoomTg8fWlM-43" value="碱基插入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1ec7fl5i77vxQF_BeWmP-1" vertex="1">
           <mxGeometry x="310" y="540" width="60" height="20" as="geometry" />
@@ -4892,6 +4892,9 @@
         </mxCell>
         <mxCell id="qBKiZQzaruoomTg8fWlM-53" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1ec7fl5i77vxQF_BeWmP-1" vertex="1">
           <mxGeometry x="480" y="550" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Orp6Zj2Mhi3s8diHOX95-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1ec7fl5i77vxQF_BeWmP-1">
+          <mxGeometry x="480" y="520" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
