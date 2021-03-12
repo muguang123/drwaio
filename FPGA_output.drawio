@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-12T08:36:07.567Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="VEWe42hbYjHF01zbl_9B" version="14.4.4" type="github" pages="20">
+<mxfile modified="2021-03-12T08:44:52.075Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="_8Iglulv3xNNbkp7VEW-" version="14.4.4" type="github" pages="20">
   <diagram id="GeZSIojBDvsr7RiwyZ7Q" name="数据包格式">
     <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4434,7 +4434,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qDT9ByKAfNdiBP6uDsqf" name="DNA-N">
-    <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_TjpRfQJKH9nIpQt-QpF-0" />
         <mxCell id="_TjpRfQJKH9nIpQt-QpF-1" parent="_TjpRfQJKH9nIpQt-QpF-0" />
@@ -4688,16 +4688,16 @@
           <mxGeometry x="140" y="500" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_TjpRfQJKH9nIpQt-QpF-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="_TjpRfQJKH9nIpQt-QpF-1" vertex="1">
-          <mxGeometry x="610" y="600" width="20" height="20" as="geometry" />
+          <mxGeometry x="605" y="575" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_TjpRfQJKH9nIpQt-QpF-138" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="_TjpRfQJKH9nIpQt-QpF-1" vertex="1">
-          <mxGeometry x="610" y="640" width="20" height="20" as="geometry" />
+          <mxGeometry x="605" y="610" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_TjpRfQJKH9nIpQt-QpF-139" value="种子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="_TjpRfQJKH9nIpQt-QpF-1" vertex="1">
-          <mxGeometry x="650" y="600" width="40" height="20" as="geometry" />
+          <mxGeometry x="645" y="575" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_TjpRfQJKH9nIpQt-QpF-141" value="拓展" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="_TjpRfQJKH9nIpQt-QpF-1" vertex="1">
-          <mxGeometry x="650" y="640" width="40" height="20" as="geometry" />
+          <mxGeometry x="645" y="610" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_TjpRfQJKH9nIpQt-QpF-142" value="序列读段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="_TjpRfQJKH9nIpQt-QpF-1" vertex="1">
           <mxGeometry x="290" y="380" width="60" height="20" as="geometry" />
